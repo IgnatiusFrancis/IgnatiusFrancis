@@ -4,10 +4,10 @@
 
 I am Ignatius Francis, currently working as a Software Engineer intern at [Xyneex Technologies Limited](https://www.xyneex.com/). I am a Full-Stack MERN and Java developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ignatius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[[www.linkedin.com/in/ludehsar/](https://ng.linkedin.com/in/ignatius-francis-obi-33a96817b)](https://ng.linkedin.com/in/ignatius-francis-obi-33a96817b))]([https://www.linkedin.com/in/ludehsar/](https://ng.linkedin.com/in/ignatius-francis-obi-33a96817b))
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Ignatius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[[www.linkedin.com/in/ludehsar/](https://ng.linkedin.com/in/ignatius-francis-obi-33a96817b)](https://ng.linkedin.com/in/ignatius-francis-obi-33a96817b))]([https://www.linkedin.com/in/ludehsar/](https://ng.linkedin.com/in/ignatius-francis-obi-33a96817b))
 [![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:obiignatiusfrancis@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
+[![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/) -->
 
 
 ## ⚡ Technologies
