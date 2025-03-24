@@ -1,8 +1,12 @@
-### Hi there 👋
+Hi there 👋, I'm Francis
 
+🚀 Full-Stack Developer | DevOps Engineer
 
+💡 Passionate about building scalable, maintainable, and efficient software solutions.
 
-I'm Francis, a full-Stack and a Devops Engineer. I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+⚙️ Experienced in Cloud Computing, Containerization, CI/CD Pipelines, and Orchestration.
+
+🎯 Focused on performance optimization, security, and automation.
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Ignatius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[[www.linkedin.com/in/ludehsar/](https://ng.linkedin.com/in/ignatius-francis-obi-33a96817b)](https://ng.linkedin.com/in/ignatius-francis-obi-33a96817b))]([https://www.linkedin.com/in/ludehsar/](https://ng.linkedin.com/in/ignatius-francis-obi-33a96817b))
 [![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
